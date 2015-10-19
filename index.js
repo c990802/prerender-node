@@ -61,20 +61,20 @@ prerender.crawlerUserAgents = [
 
 
 prerender.extensionsToIgnore = [
-  '.js',
-  '.css',
-  '.xml',
+  // '.js',
+  // '.css',
+  // '.xml',
   '.less',
-  '.png',
-  '.jpg',
-  '.jpeg',
-  '.gif',
-  '.pdf',
-  '.doc',
-  '.txt',
-  '.ico',
-  '.rss',
-  '.zip',
+  // '.png',
+  // '.jpg',
+  // '.jpeg',
+  // '.gif',
+  // '.pdf',
+  // '.doc',
+  // '.txt',
+  // '.ico',
+  // '.rss',
+  // '.zip',
   '.mp3',
   '.rar',
   '.exe',
@@ -82,8 +82,8 @@ prerender.extensionsToIgnore = [
   '.doc',
   '.avi',
   '.ppt',
-  '.mpg',
-  '.mpeg',
+  // '.mpg',
+  // '.mpeg',
   '.tif',
   '.wav',
   '.mov',
@@ -99,8 +99,8 @@ prerender.extensionsToIgnore = [
   '.flv',
   '.m4v',
   '.torrent',
-  '.woff',
-  '.ttf'
+  // '.woff',
+  // '.ttf'
 ];
 
 
